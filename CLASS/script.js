@@ -1,12 +1,12 @@
 // let obj={
-//     name:"Devendra",
+//     name:"aakash",
 //     address:"Gurgaon",
-//     age:23
+//     age:18
 // }
 // let obj2={
-//     name:"Devendra",
+//     name:"aakash",
 //     address:"Gurgaon",
-//     age:23
+//     age:18
 // }
 // obj.age=50
 // console.log(obj)
