@@ -1,7 +1,7 @@
 // let obj={
-//     name:"Devendra",
+//     name:"aakash",
 //     address:"Gurgaon",
-//     age:23
+//     age:18
 // }
 // let obj2={
 //     name:"Devendra",
